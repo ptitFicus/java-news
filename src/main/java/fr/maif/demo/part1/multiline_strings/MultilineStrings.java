@@ -2,7 +2,8 @@ package fr.maif.demo.part1.multiline_strings;
 
 public class MultilineStrings {
     public static void main( String[] args ) {
-        String json = "{\n" +
+        String json = "" +
+                "{\n" +
                 "  \"foo\": 1,\n" +
                 "  \"bar\": \"baz\"\n" +
                 "}";
@@ -16,8 +17,5 @@ public class MultilineStrings {
         System.out.println(json);
         System.out.println("###################");
         System.out.println(better);
-        System.out.println("###################");
-
-        // TODO parler du indent
     }
 }

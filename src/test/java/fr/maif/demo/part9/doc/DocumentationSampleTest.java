@@ -1,4 +1,4 @@
-package fr.maif.demo.part11.doc;
+package fr.maif.demo.part9.doc;
 
 import static org.junit.Assert.assertEquals;
 
