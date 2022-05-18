@@ -8,3 +8,7 @@
 - [X] InstantSource
 - [X] instanceof
 - [X] HTTP client
+
+Résumé des nouveautés :
+
+https://www.loicmathieu.fr/wordpress/informatique/java-18-quoi-de-neuf/
