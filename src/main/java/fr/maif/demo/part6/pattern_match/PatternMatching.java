@@ -1,6 +1,5 @@
-package fr.maif.demo;
+package fr.maif.demo.part6.pattern_match;
 
-import java.util.List;
 import java.util.Set;
 
 public class PatternMatching {

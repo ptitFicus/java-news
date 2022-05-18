@@ -1,4 +1,4 @@
-package fr.maif.demo;
+package fr.maif.demo.part1.multiline_strings;
 
 public class MultilineStrings {
     public static void main( String[] args ) {

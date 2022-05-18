@@ -1,4 +1,4 @@
-package fr.maif.demo;
+package fr.maif.demo.part9.time;
 
 import java.time.InstantSource;
 import java.time.LocalDateTime;

@@ -1,4 +1,4 @@
-package fr.maif.demo;
+package fr.maif.demo.part2.new_switch;
 
 public class NewSwitch {
 

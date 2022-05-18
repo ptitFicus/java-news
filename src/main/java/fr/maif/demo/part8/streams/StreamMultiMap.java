@@ -1,8 +1,8 @@
-package fr.maif.demo;
+package fr.maif.demo.part8.streams;
 
 import java.util.List;
 
-public class BetterStreams {
+public class StreamMultiMap {
   public static void main(String[] args) {
     record Employe(String name){}
     record Entreprise(String name, List<Employe> employes){}

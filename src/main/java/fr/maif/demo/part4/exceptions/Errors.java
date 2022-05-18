@@ -1,4 +1,4 @@
-package fr.maif.demo;
+package fr.maif.demo.part4.exceptions;
 
 import java.util.List;
 

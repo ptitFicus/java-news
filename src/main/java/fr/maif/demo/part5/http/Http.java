@@ -1,4 +1,4 @@
-package fr.maif.demo;
+package fr.maif.demo.part5.http;
 
 import java.net.URI;
 import java.net.URISyntaxException;

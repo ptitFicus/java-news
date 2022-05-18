@@ -1,4 +1,4 @@
-package fr.maif.demo;
+package fr.maif.demo.part3.records;
 
 abstract class Bar {}
 interface Foo {}

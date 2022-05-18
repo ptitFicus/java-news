@@ -1,4 +1,4 @@
-package fr.maif.demo;
+package fr.maif.demo.part8.streams;
 
 import java.util.*;
 import java.util.stream.Collectors;
