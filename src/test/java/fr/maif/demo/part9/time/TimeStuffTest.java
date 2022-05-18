@@ -1,4 +1,4 @@
-package fr.maif.demo;
+package fr.maif.demo.part9.time;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
@@ -16,8 +16,8 @@ public class TimeStuffTest {
     }
 
     @Test
-    public void isThis2023ShouldReturnTrueIfYearIs2023() {
-        final LocalDateTime time = LocalDateTime.of(2023, 1, 1, 0, 0);
+    public void isThis2023ShouldReturnTrueIfYearIs2050() {
+        final LocalDateTime time = LocalDateTime.of(2050, 1, 1, 0, 0);
         final Instant instant = time.atZone(ZoneId.systemDefault()).toInstant();
         final TimeStuff timeStuff = new TimeStuff(InstantSource.fixed(instant));
 

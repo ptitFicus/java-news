@@ -12,7 +12,7 @@ public class Errors {
     var entreprise = new Entreprise("my-company", new Structure(List.of(new Employe(null))));
     var entreprise2 = new Entreprise("my-company", null);
 
-    System.out.println(entreprise.structure.employes.get(0).identite.name);
+    //System.out.println(entreprise.structure.employes.get(0).identite.name);
     //System.out.println(entreprise2.structure.employes.get(0).identite.name);
     //System.out.println(entreprise.structure.employes.get(1).identite.name);
   }
