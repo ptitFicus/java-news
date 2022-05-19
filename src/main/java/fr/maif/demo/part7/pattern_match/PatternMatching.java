@@ -1,4 +1,4 @@
-package fr.maif.demo.part6.pattern_match;
+package fr.maif.demo.part7.pattern_match;
 
 import java.util.Set;
 

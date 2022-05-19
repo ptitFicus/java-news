@@ -1,4 +1,4 @@
-package fr.maif.demo.part7.sealed;
+package fr.maif.demo.part6.sealed;
 
 sealed interface FormeGeometrique permits Quadrilatere, Triangle { }
 
