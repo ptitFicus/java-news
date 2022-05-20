@@ -9,8 +9,8 @@ public class StreamMultiMap {
 
     final List<Entreprise> entreprises = List.of(
         new Entreprise("entreprise-1", List.of(new Employe("foo"), new Employe("bar"), new Employe("baz"))),
-        new Entreprise("entreprise-1", List.of(new Employe("daz"), new Employe("dow"))),
-        new Entreprise("entreprise-1", List.of(new Employe("toto")))
+        new Entreprise("entreprise-2", List.of(new Employe("daz"), new Employe("dow"))),
+        new Entreprise("entreprise-3", List.of(new Employe("toto")))
     );
 
     entreprises.stream()
