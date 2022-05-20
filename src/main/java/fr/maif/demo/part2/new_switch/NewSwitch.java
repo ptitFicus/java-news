@@ -18,6 +18,15 @@ public class NewSwitch {
     }
 
     System.out.println(balance);
+
+    // Attention au null !
+    int balanceBew = switch (op) {
+      case DEPOT -> balance + 100;
+      case RETRAIT -> balance - 100;
+      case CLOTURE -> 0;
+    };
+
+    System.out.println(balanceBew);
   }
 }
 
